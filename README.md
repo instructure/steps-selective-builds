@@ -6,7 +6,6 @@ Run builds only if a file in trigger paths has changed.
 
 ```
     - git::https://github.com/instructure/steps-selective-builds.git@master:
-        title: Selective Builds
 ```
 
 The step inspects the steps-selective-builds environment variable and skips the build if no files have changed.
