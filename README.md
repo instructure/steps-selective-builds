@@ -1,6 +1,6 @@
-# Disable Git LFS
+# Selective Builds
 
-Disable Git LFS by defining a global exclude rule
+Run builds only if a file in trigger paths has changed.
 
 ## How to use this Step
 
