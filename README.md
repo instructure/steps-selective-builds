@@ -1,5 +1,9 @@
 # Selective Builds
 
+**Note**: Bitrise [added support for Selective Builds.](https://blog.bitrise.io/build-parts-of-your-mono-repo-separately) Use that instead of this script.
+
+---
+
 Run builds only if a file in trigger paths has changed.
 
 ## How to use this Step
