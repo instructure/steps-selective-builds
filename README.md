@@ -1,6 +1,6 @@
 # Selective Builds
 
-**Note**: Bitrise [added support for Selective Builds.](https://blog.bitrise.io/build-parts-of-your-mono-repo-separately) Use that instead of this script.
+**Note**: Bitrise [added support for Selective Builds.](https://devcenter.bitrise.io/en/builds/configuring-build-settings/selective-builds.html) Use that instead of this script.
 
 ---
 
